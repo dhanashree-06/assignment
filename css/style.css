@@ -506,7 +506,7 @@ hr.divider {
     font-size: 10px;
   }
   ul.clients-list li {
-    width: 140px;
+    width: 47%;
     margin-bottom: 1em;
   }
   ul.clients-list li:nth-child(5),
